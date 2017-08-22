@@ -68,6 +68,13 @@ li {
 #message {
 	margin-bottom:0;
 }
+.failure {
+  color: #d9534f;
+}
+
+.success {
+  color: #5cb85c;
+}
 @media only screen and (max-width: 540px) {
 	.ctc-container {
 		width:96%;
