@@ -65,6 +65,9 @@ ol {
 li {
 	margin-bottom:4px;
 }
+#message {
+	margin-bottom:0;
+}
 @media only screen and (max-width: 540px) {
 	.ctc-container {
 		width:96%;
